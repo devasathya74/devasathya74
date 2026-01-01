@@ -14,6 +14,8 @@ Hi, I’m Sathya.<br>I work on web development, backend systems, and automation 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devasathya74&limit=5&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devasathya74&show_icons=true&theme=dark)
+
 
 ---
 
