@@ -12,9 +12,6 @@ Hi, I’m Sathya.<br>I work on web development, backend systems, and automation 
 ![](https://nirzak-streak-stats.vercel.app/?user=devasathya74&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devasathya74&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devasathya74&limit=5&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devasathya74&show_icons=true&theme=dark)
 
 
 ---
