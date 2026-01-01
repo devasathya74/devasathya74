@@ -14,8 +14,7 @@ Hi, I’m Sathya.<br>I work on web development, backend systems, and automation 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devasathya74&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+https://github.com/devasathya74/cyber-cafe.git
 ---
-[![](https://visitcount.itsvg.in/api?id=devasathya74&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
