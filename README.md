@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sathya. I work on web development, backend systems, and automation scripts. I enjoy building practical projects, understanding how systems work under the hood, and improving performance and security. I’m also a # cop by profession, which has shaped my discipline, problem-solving mindset, and focus on real-world impact. Currently, I’m exploring new tools and strengthening my skills by building and refining real-world projects.
+Hi, I’m Sathya. I work on web development, backend systems, and automation scripts. I enjoy building practical projects, understanding how systems work under the hood, and improving performance and security. I’m also a Police officer by profession, which has shaped my discipline, problem-solving mindset, and focus on real-world impact. Currently, I’m exploring new tools and strengthening my skills by building and refining real-world projects.
 
 
 ## 🌐 Socials:
